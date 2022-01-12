@@ -1,42 +1,29 @@
-# ProyectoFinal_v1.5
+# Proyecto Final CoderHouse - BLOG
 
-# Blog
 
 El proyecto consta de un Blog con CRUD sobre Usuarios y Posteos
 
-## Comenzando 🚀
+## Instrucciones 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+Recomendamos clonar el repositorio localmente en la máquina en la cual se vaya a utilizar.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
 Python (este proyecto fue desarrollado en version 3.8)
-Djando
+Djando (este proyecto fue desarrollado en version 3.2.9)
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+No se deben realizar instalaciones adicionales a Python y Django el host para ejecutar el BLOG.
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Recuerde que es necesario correr el servidor con el siguiente comando:
 
 ```
-hasta finalizar
+root_de_archivos/python manage.py runserver
 ```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Ejecutando las pruebas ⚙️
 
@@ -66,9 +53,10 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Python](https://www.python.org/) - Lenguaje de programación principal
+* [Django](https://www.djangoproject.com/) - El framework web usado
+* [Bootstrap](https://getbootstrap.com/) - Estilos
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - Lenguaje de etiquetado
 
 ## Contribuyendo 🖇️
 
